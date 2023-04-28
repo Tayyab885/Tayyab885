@@ -1,4 +1,4 @@
-![logo](https://github.com/Tayyab885/Tayyab885/blob/main/Banner%20PNG.png)
+![logo](https://github.com/Tayyab885/Tayyab885/blob/main/Banner%20%20JPG.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab885&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab885" /> </p>
 
