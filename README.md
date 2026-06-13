@@ -73,10 +73,12 @@ apps around them.
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tayyab885&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab885&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs"/>
-</p>
+<table>
+  <tr>
+    <td valign="top"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Tayyab885&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats"/></td>
+    <td valign="top"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab885&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs"/></td>
+  </tr>
+</table>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyab885&theme=onedark&hide_border=true" alt="streak"/>
 </p>
