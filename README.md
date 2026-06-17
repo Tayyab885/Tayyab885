@@ -1,4 +1,4 @@
-![banner](https://github.com/Tayyab885/Tayyab885/blob/main/Banner%20%20JPG.jpg)
+![banner](https://github.com/Tayyab885/Tayyab885/blob/main/banner.png)
 
 <h1 align="center">Hi, I'm Muhammad Tayyab 👋</h1>
 <h3 align="center">AI Engineer · Machine Learning &amp; Full-Stack Builder</h3>
