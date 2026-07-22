@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Tayyab885/Tayyab885/main/cover.png)
+![banner](https://raw.githubusercontent.com/Tayyab885/Tayyab885/main/banner.png)
 
 <h1 align="center">Hi, I'm Muhammad Tayyab</h1>
 <h3 align="center">Machine Learning Engineer, working on AI for medical imaging</h3>
@@ -63,17 +63,3 @@ Engineering
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### GitHub stats
-
-<table>
-  <tr>
-    <td valign="top"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Tayyab885&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats"/></td>
-    <td valign="top"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab885&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs"/></td>
-  </tr>
-</table>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyab885&theme=onedark&hide_border=true" alt="streak"/>
-</p>
