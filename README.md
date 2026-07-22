@@ -1,10 +1,10 @@
-![banner](https://raw.githubusercontent.com/Tayyab885/Tayyab885/main/cover.png)
+![banner](https://raw.githubusercontent.com/Tayyab885/Tayyab885/main/banner.png)
 
 <h1 align="center">Hi, I'm Muhammad Tayyab</h1>
 <h3 align="center">Machine Learning Engineer, working on AI for medical imaging</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-tayyab-9b965b1b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-tayyab885/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://kaggle.com/muhammadtayyab885"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://muhammadtayyab-my-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:m.tayyab273@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
