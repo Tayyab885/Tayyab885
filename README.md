@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Tayyab885/Tayyab885/main/banner.png)
+![banner](https://raw.githubusercontent.com/Tayyab885/Tayyab885/main/cover.png)
 
 <h1 align="center">Hi, I'm Muhammad Tayyab</h1>
 <h3 align="center">Machine Learning Engineer, working on AI for medical imaging</h3>
